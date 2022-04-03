@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/PeopleProject/static/css/main.7361877f.css",
+    "main.js": "/PeopleProject/static/js/main.4dcecbd1.js",
+    "index.html": "/PeopleProject/index.html",
+    "main.7361877f.css.map": "/PeopleProject/static/css/main.7361877f.css.map",
+    "main.4dcecbd1.js.map": "/PeopleProject/static/js/main.4dcecbd1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7361877f.css",
+    "static/js/main.4dcecbd1.js"
+  ]
+}
