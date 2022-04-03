@@ -1,0 +1,26 @@
+.card-container {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+  gap: 1%;
+
+  .card {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+
+    & > img {
+      object-fit: cover;
+    }
+  }
+}
+
+.modal-form {
+  background-color: white;
+  padding: 10%;
+  box-shadow: 5px 5px 15px -3px #000000;
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  z-index: 10;
+}
